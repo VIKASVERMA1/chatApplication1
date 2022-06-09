@@ -1,4 +1,4 @@
-# chatApplicationn
+# chatApplication1
 
 # Project description
 
@@ -6,14 +6,13 @@
 
 # What I am using in this project
 
-###### Node js 
+###### Node js
 
 ###### Socket.io for creating the chat application
 
 ###### Visual studio code for coding
 
 # How to run the project
-
 
 ###### First you have to install all node module packages with the command of 'npm i'.
 
